@@ -16,7 +16,7 @@ if version > 580
 	endif
 endif
 
-let colors_name = "wombat256trans"
+let colors_name = "wombat256mod"
 
 
 " General colors
